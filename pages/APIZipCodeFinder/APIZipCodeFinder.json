@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "4a4a0246-4f78-4c03-bc0d-a45d7549043d_a639e451-9b70-4690-b247-d4f5fd438300",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 780,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "minHeight": 590,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "snapRows": 57,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 92,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "APIZipCodeFinder",
+    "slug": "apizipcodefinder"
+  }
+}

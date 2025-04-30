@@ -1,0 +1,88 @@
+{
+  "animateLoading": true,
+  "backgroundColor": "#FFFFFF",
+  "borderColor": "#E0DEDE",
+  "borderRadius": "1.5rem",
+  "borderWidth": "1",
+  "bottomRow": 47,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "children": [
+    {
+      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+      "bottomRow": 390,
+      "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+      "canExtend": false,
+      "containerStyle": "none",
+      "detachFromLayout": true,
+      "dynamicBindingPathList": [
+        {
+          "key": "borderRadius"
+        },
+        {
+          "key": "boxShadow"
+        }
+      ],
+      "dynamicHeight": "AUTO_HEIGHT",
+      "flexLayers": [],
+      "isLoading": false,
+      "isVisible": true,
+      "key": "8evc0ga8g7",
+      "leftColumn": 0,
+      "maxDynamicHeight": 9000,
+      "minDynamicHeight": 4,
+      "minHeight": 400,
+      "minWidth": 450,
+      "mobileBottomRow": 400,
+      "mobileLeftColumn": 0,
+      "mobileRightColumn": 312.75,
+      "mobileTopRow": 0,
+      "needsErrorInfo": false,
+      "parentColumnSpace": 1,
+      "parentId": "9k2ri1kuvk",
+      "parentRowSpace": 1,
+      "renderMode": "CANVAS",
+      "responsiveBehavior": "fill",
+      "rightColumn": 312.75,
+      "topRow": 0,
+      "type": "CANVAS_WIDGET",
+      "version": 1,
+      "widgetId": "poykawag5u",
+      "widgetName": "Canvas2"
+    }
+  ],
+  "dynamicBindingPathList": [
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "stretch",
+  "isCanvas": true,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "8c34fnr21g",
+  "leftColumn": 2,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 10,
+  "minWidth": 450,
+  "mobileBottomRow": 79,
+  "mobileLeftColumn": 14,
+  "mobileRightColumn": 38,
+  "mobileTopRow": 39,
+  "needsErrorInfo": false,
+  "originalBottomRow": 47,
+  "originalTopRow": 8,
+  "parentColumnSpace": 13.03125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "positioning": "fixed",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 36,
+  "shouldScrollContents": true,
+  "topRow": 8,
+  "type": "FORM_WIDGET",
+  "widgetId": "9k2ri1kuvk",
+  "widgetName": "Form1"
+}

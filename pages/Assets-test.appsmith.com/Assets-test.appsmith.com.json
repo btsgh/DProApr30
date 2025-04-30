@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "6811a4ab3605d279365801aa_f92a7b9d-3c08-461e-b844-418cd85e2fc7",
+  "unpublishedPage": {
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 850,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "dynamicTriggerPathList": [],
+          "leftColumn": 0,
+          "minHeight": 900,
+          "parentColumnSpace": 1,
+          "parentRowSpace": 1,
+          "rightColumn": 1174,
+          "snapColumns": 64,
+          "snapRows": 129,
+          "topRow": 0,
+          "type": "CANVAS_WIDGET",
+          "version": 92,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "Assets-test.appsmith.com",
+    "slug": "assets-test-appsmith-com"
+  }
+}

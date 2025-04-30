@@ -14,6 +14,18 @@
   "icon": "moon",
   "pages": [
     {
+      "id": "Schedule",
+      "isDefault": false
+    },
+    {
+      "id": "New vehicle",
+      "isDefault": false
+    },
+    {
+      "id": "Home page",
+      "isDefault": false
+    },
+    {
       "id": "OAuth20",
       "isDefault": true
     },

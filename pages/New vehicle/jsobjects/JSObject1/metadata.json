@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "6811ae0a4f128b274a8d479e_2af32425-c6bd-487d-ba60-be086932fc1c",
+  "id": "New vehicle_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "New vehicle",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

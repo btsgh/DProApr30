@@ -75,9 +75,9 @@
       "pluginId": "google-sheets-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "Api1",
     "pageId": "MainCustomWidgetTest",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

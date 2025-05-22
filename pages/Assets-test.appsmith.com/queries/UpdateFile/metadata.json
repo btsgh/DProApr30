@@ -50,9 +50,9 @@
       "name": "S3",
       "pluginId": "amazons3-plugin"
     },
-    "executeOnLoad": false,
     "name": "UpdateFile",
     "pageId": "Assets-test.appsmith.com",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

@@ -100,9 +100,9 @@
         "key": "formData.insert.documents.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "InsertDoc",
     "pageId": "Mongo",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

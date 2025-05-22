@@ -70,10 +70,10 @@
         "key": "queryParameters[1].value"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "getZipCode",
     "name": "getZipCode",
     "pageId": "APIZipCodeFinder",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

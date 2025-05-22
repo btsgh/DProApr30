@@ -70,9 +70,9 @@
         "key": "formData.updateMany.update.data"
       }
     ],
-    "executeOnLoad": false,
     "name": "Update_movies1",
     "pageId": "InputCustomWidgetTest",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

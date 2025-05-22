@@ -24,9 +24,9 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "Api3",
     "pageId": "OAuth20",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

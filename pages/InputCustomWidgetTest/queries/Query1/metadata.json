@@ -56,9 +56,9 @@
       "name": "Movies",
       "pluginId": "mongo-plugin"
     },
-    "executeOnLoad": false,
     "name": "Query1",
     "pageId": "InputCustomWidgetTest",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
